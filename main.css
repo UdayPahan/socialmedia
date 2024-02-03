@@ -1,0 +1,11 @@
+.inner{
+   background-color: var(--Dark-Grey);
+   /* width:80vw;
+   height:70vh; */
+   display:flex;
+   flex-direction: column;
+   /* justify-content:center; */
+   align-items: center;
+   padding-bottom:1rem;
+   border-radius: 0.5rem;
+}

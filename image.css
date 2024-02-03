@@ -1,0 +1,15 @@
+.image img{
+   /* border:2px solid red; */
+   width:4rem;
+   height:4rem;
+   border-radius:5000px;
+   object-fit: contain;
+   margin:1.4rem 0;
+}
+
+@media (min-width:1440px){
+   .image img{
+      width:10rem;
+      height:10rem;
+   }
+}
